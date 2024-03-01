@@ -1,7 +1,7 @@
 # DeepLearning-_based_peripheral_controllor
 
 ## Virtual Keyboard with Hand Tracking
-
+## Use python-v3.8
 This project implements a virtual keyboard controlled by hand gestures using a webcam. Users can interact with the virtual keyboard by hovering their index finger over the keys and performing various actions such as typing, deleting, and pressing special keys.
 
 ### Setup Instructions
