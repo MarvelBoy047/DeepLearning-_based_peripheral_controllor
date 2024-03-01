@@ -2,7 +2,7 @@
 
 ## Virtual Keyboard with Hand Tracking
 
-This project implements a virtual keyboard controlled by hand gestures using a webcam. Users can interact with the virtual keyboard by hovering their index finger over the keys, and perform various actions such as typing, deleting, and pressing special keys.
+This project implements a virtual keyboard controlled by hand gestures using a webcam. Users can interact with the virtual keyboard by hovering their index finger over the keys and performing various actions such as typing, deleting, and pressing special keys.
 
 ### Setup Instructions
 
@@ -56,11 +56,3 @@ The `profile_memory.py` script profiles memory usage of the main script over tim
 
 - Ensure proper lighting conditions for optimal hand tracking.
 - Adjust the webcam position to capture hand movements accurately.
-
-### Contributors
-
-- Your Name (@yourusername)
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
