@@ -46,11 +46,11 @@ Here are some images showcasing the virtual keyboard in action and a user intera
 
 ### Virtual Keyboard Display
 
-![Virtual Keyboard](path_to_your_virtual_keyboard_image.png)
+![Virtual Keyboard](virtual_keyboard.jpg)
 
 ### User Typing with Index Finger
 
-![User Typing](path_to_your_user_typing_image.png)
+![User Typing](virtual_keyboard_tying.jpg)
 
 To include these images in your project:
 
