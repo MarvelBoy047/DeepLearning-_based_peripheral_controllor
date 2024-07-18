@@ -84,7 +84,7 @@ Below is a graph illustrating the memory usage of the main script over time. Thi
 
 ### Memory Usage Graph
 
-(Figure_1.png)
+!(Figure_1.png)
 
 - **X-axis**: Time (in seconds)
 - **Y-axis**: Memory Usage (in MB)
