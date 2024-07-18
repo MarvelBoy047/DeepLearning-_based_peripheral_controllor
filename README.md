@@ -40,6 +40,23 @@ This project implements a virtual keyboard controlled by hand gestures using a w
 - **Caps Lock**: Toggles Caps Lock on and off.
 - **Mouse Control**: Controls the mouse cursor using hand gestures.
 
+## Output Images
+
+Here are some images showcasing the virtual keyboard in action and a user interacting with it using their index finger.
+
+### Virtual Keyboard Display
+
+![Virtual Keyboard](path_to_your_virtual_keyboard_image.png)
+
+### User Typing with Index Finger
+
+![User Typing](path_to_your_user_typing_image.png)
+
+To include these images in your project:
+
+1. Capture the screenshots of the virtual keyboard and the user typing with the index finger.
+2. Save the images in the project directory.
+
 ## Project Structure
 
 - **main_script.py**: Contains the main functionality of the virtual keyboard and hand tracking.
@@ -67,7 +84,7 @@ Below is a graph illustrating the memory usage of the main script over time. Thi
 
 ### Memory Usage Graph
 
-![Memory Usage Graph](Figure_1.png)
+(Figure_1.png)
 
 - **X-axis**: Time (in seconds)
 - **Y-axis**: Memory Usage (in MB)
